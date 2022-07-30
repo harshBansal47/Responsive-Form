@@ -63,7 +63,7 @@ const Main = () => {
   
 
   return (
-    <Grid container component="main" sx={{ height: "89vh" ,display:'block',  justifyContent:'center',}}>
+    <Grid container component="main" sx={{ height: "89vh" }}>
       <Grid item xs = {12}  md={5} p = {3}>
         <Box
           sx={{
